@@ -6,6 +6,9 @@ https://github.com/dj56959566/NF-Koybe-Argo-Nezha-v0v1 (教程)
 
 2.Northflank添加端口映射二个
 
+<img width="304" height="189" alt="image" src="https://github.com/user-attachments/assets/ff4e133e-fedb-48c8-a6b0-416ec383beec" />
+
+
 p01:http 8090
 
 p02:http/2 8091
