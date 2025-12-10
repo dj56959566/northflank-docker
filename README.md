@@ -5,7 +5,9 @@ https://github.com/dj56959566/NF-Koybe-Argo-Nezha-v0v1 (教程)
 1.镜像:ghcr.io/dj56959566/nf/koyeb-nginx-grpc:latest
 
 2.Northflank添加端口映射二个
+
 p01:http 8090
+
 p02:http/2 8091
 
 3.我们分别为这两个端口分配不同的域名，分别为 web.example.com、data.example.com
