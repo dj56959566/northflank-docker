@@ -1,4 +1,4 @@
-# 消耗使用CF隧道  (选定的随道域名网络要开启 gRPC) webst  支持 amd64 和 arm64 架构
+# 消耗使用CF隧道  (选定的随道域名网络要开启 gRPC)  支持 amd64 和 arm64 架构
 
 https://github.com/dj56959566/NF-Koybe-Argo-Nezha-v0v1 (教程)
 
